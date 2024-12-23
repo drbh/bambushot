@@ -13,3 +13,5 @@ wheels/
 .env
 frames
 stream-cam
+
+!frames/latest_frame_20.jpg
